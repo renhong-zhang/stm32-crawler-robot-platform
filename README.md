@@ -108,7 +108,7 @@ I managed this project using the project management tool `OmniPlan`, and tools I
 
 #### Code Management 
 
-I defined our code's style guide based on Google's C++ Style Guide to ensure the quality of code from each member.  And the code is all managed with the GitHub Workflow.
+I defined our code's style guide based on Google's C++ Style Guide to ensure the quality of code from each member. You can find this guide in `./Management/` directory. And the code is all managed with the GitHub Workflow.
 
 
 ### Built With
