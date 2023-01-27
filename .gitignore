@@ -106,3 +106,76 @@ octave-workspace
 
 
 
+
+# ~BEGIN: Language: STM32
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Misc
+*.map
+# *.m
+# *.png
+
+# Eclipse CDT project files
+.cproject
+.project
+.settings/
+
+# Vagrant directory
+.vagrant/
+
+# Include makefiles
+!Makefile
+*~
+
+# Libraries
+/lib
+
+# Config 
+*.ioc
+
+# MX project
+.mxproject
+*.ld
+*.launch
+**/Drivers/
+**/Debug/
+**/Core/Startup
+*.s
+
+# System File
+stm32*.h
+stm32*.c
+system_stm32*
+sysmem.c
+syscalls.c
+
+#? No Main
+# * Temp Main.c
+main.c
+
+
+# ~END: Language: STM32

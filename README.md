@@ -76,7 +76,7 @@ This model's screenshots and overview are shown below.
 
 ### Hardware Programming
 
-The code used to control each component is carefully coded and tested using an oscilloscope to monitor input and output signals. 
+The code used to control each component is carefully coded and tested using an oscilloscope to monitor input and output signals. You can find these codes in the `./Hardware/` directory.
 
 
 ### PCB Design 
